@@ -1081,7 +1081,7 @@ header .header-logo a {
 }
 
 #menu-nav-wrap .nav-list li a {
-  color: rgba(255, 255, 255, 0.25);
+  color: rgba(255, 255, 255, 0.5);
   display: block;
 }
 
@@ -1104,7 +1104,7 @@ header .header-logo a {
 }
 
 #menu-nav-wrap .header-social-list li a {
-  color: rgba(255, 255, 255, 0.15);
+  color: rgba(255, 255, 255, 0.35);
 }
 
 #menu-nav-wrap .header-social-list li a:hover,
