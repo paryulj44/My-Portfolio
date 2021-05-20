@@ -1248,7 +1248,7 @@ header .header-logo a {
   /* background-size: cover; */
   /* background-color: #0000005d; */
   /* background: url('https://wallpaperbat.com/img/93315-apple-developer-wallpaper-just-in-time-for-wwdc.png'); */
-  background-image: url('/images/back.png');
+  background-image: url('../images/back.png');
 }
 
 .home-content-table {
